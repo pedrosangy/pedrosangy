@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">✨ Brazilian living in Toronto<br>📚 I'm currently working on inprove my Skills<br>🎯 Goals: join a team of web developers <br></p>
+<p align="left">✨ Brazilian living in Toronto<br>📚 I'm currently working on improve my Skills<br>🎯 Goals: join a team of web developers <br></p>
 
     
 ### Contact
